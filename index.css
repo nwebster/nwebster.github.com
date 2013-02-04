@@ -1,15 +1,54 @@
 #website_header {
 
 color: blue;
-font-size: 48px;
+font-size: 55px;
 position: absolute;
 display: block;
-left: 30%;
+left: 27%;
 }
+
+body {
+
+background: #E0E0E0;
+}
+
+p {
+
+margin-top: 2px;
+margin-bottom: 2px;
+font-size: 15px
+}
+
+p.center {
+
+left: 25%;
+}
+
 
 img {
 
+position: absolute;
 background: url('Nate.jpg') no-repeat top center;
-height: 300px;
-width: 100%;
+top: 100px;
+height: 500px;
+width: 50%;
+left: 25%;
+}
+
+#header {
+font-size: 48px;
+}
+
+.imp_cat {
+
+font-size: 30px;
+text-decoration: underline;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.non_imp {
+margin-top: 7px;
+margin-bottom: 7px;
+font-size: 22px;
 }
