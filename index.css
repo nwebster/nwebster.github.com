@@ -1,8 +1,9 @@
-h1 {
+#website_header {
 
 color: blue;
 font-size: 48px;
 position: absolute;
+display: block;
 top: 20px;
-text-align: center;
+text-align: center
 }
