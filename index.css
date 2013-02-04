@@ -6,3 +6,10 @@ position: absolute;
 display: block;
 left: 30%;
 }
+
+image {
+
+    background: url('Nate.jpg') no-repeat top center;
+    height: 300px;
+    width: 100%;
+}
