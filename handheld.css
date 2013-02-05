@@ -58,7 +58,7 @@ display: block;
 
 #bio_link {
 
-position: abosolute;
+position: absolute;
 font-size: 10px;
 top: 315px;
 display: block;
