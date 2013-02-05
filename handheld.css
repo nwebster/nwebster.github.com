@@ -48,10 +48,19 @@ margin-bottom: 4px;
 font-size: 11px;
 }
 
-a {
+#resume_link {
 
 position: absolute;
+font-size: 10px;
 top: 300px;
+display: block;
+}
+
+#bio_link {
+
+position: abosolute;
+font-size: 10px;
+top: 315px;
 display: block;
 }
 
