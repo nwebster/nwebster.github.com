@@ -4,7 +4,7 @@ color: red;
 font-size: 20px;
 position: absolute;
 display: block;
-left: 25%;
+left: 20%;
 }
 
 body {
@@ -24,9 +24,9 @@ img {
 
 position: absolute;
 background: url('Nate.jpg') no-repeat top center;
-top: 40px;
-height: 50px;
-width: 25%;
+top: 20px;
+height: 300px;
+width: 50%;
 left: 20%;
 }
 
