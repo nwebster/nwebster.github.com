@@ -1,10 +1,10 @@
 #website_header {
 
 color: red;
-font-size: 24px;
+font-size: 20px;
 position: absolute;
 display: block;
-left: 50%;
+left: 25%;
 }
 
 body {
@@ -24,10 +24,10 @@ img {
 
 position: absolute;
 background: url('Nate.jpg') no-repeat top center;
-top: 20px;
-height: 30px;
+top: 40px;
+height: 50px;
 width: 25%;
-left: 25%;
+left: 20%;
 }
 
 #header {
