@@ -1,0 +1,50 @@
+#website_header {
+
+color: red;
+font-size: 24px;
+position: absolute;
+display: block;
+left: 50%;
+}
+
+body {
+
+background: #E0E0E0;
+}
+
+p {
+
+margin-top: 2px;
+margin-bottom: 2px;
+font-size: 8px;
+}
+
+
+img {
+
+position: absolute;
+background: url('Nate.jpg') no-repeat top center;
+top: 20px;
+height: 30px;
+width: 25%;
+left: 25%;
+}
+
+#header {
+font-size: 24px;
+}
+
+.imp_cat {
+
+font-size: 15px;
+text-decoration: underline;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.non_imp {
+margin-top: 4px;
+margin-bottom: 4px;
+font-size: 11px;
+}
+
