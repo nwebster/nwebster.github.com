@@ -8,15 +8,15 @@ left: 27%;
 }
 
 body {
-
 background: #E0E0E0;
 }
 
 p {
 
-margin-top: 2px;
-margin-bottom: 2px;
-font-size: 15px
+margin-top: 4px;
+margin-bottom: 4px;
+font-size: 25px;
+width: 800px;
 }
 
 p.center {
