@@ -1,0 +1,24 @@
+h1 {
+
+	color: blue;
+	font-size: 48px;
+}
+
+body {
+
+background-image: url('assets/omfgdogs.gif');
+background-repeat: repeat;
+
+}
+
+p {
+
+position:absolute;
+bottom: 0;
+right: 0;
+font-size: 48px;
+color: white;
+fond-weight: bold;
+
+
+}
